@@ -1,0 +1,15 @@
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.csproj.AssemblyReference.cache
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.AssemblyInfoInputs.cache
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.AssemblyInfo.cs
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.csproj.CoreCompileInputs.cache
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/bin/Debug/net5.0/ProjetoElevador.deps.json
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/bin/Debug/net5.0/ProjetoElevador.runtimeconfig.json
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/bin/Debug/net5.0/ProjetoElevador.runtimeconfig.dev.json
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/bin/Debug/net5.0/ProjetoElevador.dll
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/bin/Debug/net5.0/ref/ProjetoElevador.dll
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/bin/Debug/net5.0/ProjetoElevador.pdb
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.dll
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ref/ProjetoElevador.dll
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.pdb
+/Users/rk/Projects/ProjetoElevador/ProjetoElevador/obj/Debug/net5.0/ProjetoElevador.genruntimeconfig.cache
